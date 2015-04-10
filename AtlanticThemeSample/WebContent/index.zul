@@ -1,0 +1,22 @@
+<?page title="Auto Generated index.zul"?>
+<window title="Hello World!!" border="normal" width="200px">
+
+<label value="You are using: ${desktop.webApp.version}"/>
+
+<listbox>
+	<listhead>
+		<listheader label="Name"/>
+		<listheader label="Age"/>
+	</listhead>
+	<listitem>
+		<listcell label="Aashu"/>
+		<listcell label="31"/>
+	</listitem>
+	<listitem>
+		<listcell label="Audioo"/>
+		<listcell label="?"/>
+	</listitem>
+	
+</listbox>
+
+</window>
